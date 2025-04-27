@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sondo.music.ai",
+    "sha256_cert_fingerprints":
+    ["88:34:C3:C2:62:2A:57:CE:CF:7D:20:17:F0:FD:95:17:21:97:61:D9:DE:28:8F:83:44:F8:1F:2B:F3:58:E4:26"]
+  }
+}]
