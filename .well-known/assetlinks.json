@@ -1,9 +1,16 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.sondo.music.ai",
-    "sha256_cert_fingerprints":
-    ["88:34:C3:C2:62:2A:57:CE:CF:7D:20:17:F0:FD:95:17:21:97:61:D9:DE:28:8F:83:44:F8:1F:2B:F3:58:E4:26"]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sondo.music.ai",
+      "sha256_cert_fingerprints": [
+        "88:34:C3:C2:62:2A:57:CE:CF:7D:20:17:F0:FD:95:17:21:97:61:D9:DE:28:8F:83:44:F8:1F:2B:F3:58:E4:26",
+        "51:5E:79:81:9B:16:74:B0:8C:17:8A:DF:5A:00:F1:89:09:C1:40:FA:2F:0E:EB:7E:29:C9:81:61:EA:F8:D0:51",
+        "78:63:E8:E5:01:F4:10:91:E5:15:1B:7D:DD:6A:AE:4E:96:87:CA:04:E7:97:91:17:C5:05:C0:77:B8:E4:8C:92"
+      ]
+    }
   }
-}]
+]
