@@ -27,6 +27,7 @@ https://www.tooplate.com/view/2097-pop
 <body>
     <div id="tm-bg"></div>
     <div id="tm-wrap">
+        <a href='https://sondoai.github.io?share=report&taskid=1' id="mobliestart">点击打开APP</a>
         <div class="tm-main-content">
             <div class="container tm-site-header-container">
                 <div class="row">
@@ -197,7 +198,10 @@ https://www.tooplate.com/view/2097-pop
     <script src="js/anime.min.js"></script>                     <!-- http://animejs.com/ -->
     <script src="js/main.js"></script>  
     <script>      
-
+        function applink(){   
+            window.location = 'https://sondoai.github.io?share=report&taskid=1'; 
+        }
+        applink();
         function setupFooter() {
             var pageHeight = $('.tm-site-header-container').height() + $('footer').height() + 100;
 
