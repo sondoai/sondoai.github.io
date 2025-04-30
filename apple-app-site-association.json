@@ -1,0 +1,10 @@
+{
+  "applinks": {
+      "details": [
+          {
+              "appID": "com.sondo.music.ai",
+              "paths": ["/song_detail/*"]
+          }
+      ]
+  }
+}
